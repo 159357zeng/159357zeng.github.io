@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "beijing-CN"
 site_theme               : "Haishan Zeng/Personal Homepage" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Haishan Zeng/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haishan Zeng"
 description              : &description "a graduate student at the University of Chinese Academy of Sciences."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -38,9 +38,9 @@ author:
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
