@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+你好！Welcome to my homepage!
+
 I'm a graduate student at the Institute of Software, Chinese Academy of Sciences, University of Chinese Academy of Sciences. My research interests include machine learning, embodied intelligence, and vision-language-action (VLA).
 
 I am very fortunate to be advised by Prof. Peng Li at the Intelligent Software Research Center, Institute of Software, Chinese Academy of Sciences.
